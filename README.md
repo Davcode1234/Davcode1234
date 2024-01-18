@@ -18,6 +18,6 @@ I'm Dawid, a passionate frontend developer from Poland.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/dawid-pietruszewski-49929b241/))
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)]([https://twitter.com/yourhandle](https://twitter.com/DawidPietrusze2))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawid-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/dawid-pietruszewski-49929b241/))
+[![Twitter](https://img.shields.io/badge/Twitter-Dawid-blue)]([https://twitter.com/yourhandle](https://twitter.com/DawidPietrusze2))
 
