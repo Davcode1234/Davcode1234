@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Davcode1234/Davcode1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dawid, a passionate frontend developer from Poland.
 
-Here are some ideas to get you started:
+## About Me
+- Currently I'm at marketing agency, developing a custom ERP system to manage company.
+- 📫 How to reach me: [dpietruszewski12@gmail.com](mailto:dpietruszewski12@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 💻 Programming Languages: [Javascript, Typescript]
+- 🚀 Technologies: [React, NextJS, CSS, Node.js, Express.js, MongoDB, Redux.js]
+
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,issues)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/dawid-pietruszewski-49929b241/))
+[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)]([https://twitter.com/yourhandle](https://twitter.com/DawidPietrusze2))
+
