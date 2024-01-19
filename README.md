@@ -1,20 +1,15 @@
 # Hi there! 👋
 
-I'm Dawid, a passionate frontend developer from Poland.
+I'm Dawid, a passionate frontend developer from Poland. Mainly uses React and NextJS, but constantly follow and learn new technologies related to web development.
 
 ## About Me
-- Currently I'm at marketing agency, developing a custom ERP system to manage company.
+- Currently I'm working at marketing agency, developing a custom ERP system to manage company.
 - 📫 How to reach me: [dpietruszewski12@gmail.com](mailto:dpietruszewski12@gmail.com)
 
 ## Skills
 
-- 💻 Programming Languages: [Javascript, Typescript]
-- 🚀 Technologies: [React, NextJS, CSS, Node.js, Express.js, MongoDB, Redux.js]
-
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davcode1234&show_icons=true&hide=contribs,issues)
+- 💻 Programming Languages: Javascript, Typescript
+- 🚀 Technologies: React, NextJS, CSS, Node.js, Express.js, MongoDB, Redux.js
 
 ## Connect with Me
 
