@@ -14,7 +14,7 @@ I'm Dawid, a passionate frontend developer from Poland.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,issues)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davcode1234&show_icons=true&hide=contribs,issues)
 
 ## Connect with Me
 
