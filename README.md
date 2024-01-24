@@ -3,7 +3,7 @@
 I'm Dawid, a passionate frontend developer from Poland. Mainly uses React and NextJS, but constantly follow and learn new technologies related to web development.
 
 ## About Me
-- Currently I'm working at marketing agency, developing a custom ERP system to manage company.
+- Currently I'm working at marketing agency, developing a custom ERP system to manage company and website [Gamma](https://www.gamma24.pl/).
 - 📫 How to reach me: [dpietruszewski12@gmail.com](mailto:dpietruszewski12@gmail.com)
 
 ## Skills
