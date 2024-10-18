@@ -13,6 +13,7 @@ I'm Dawid, a passionate frontend developer from Poland. Mainly uses React and Ne
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawid-blue)]([https://www.linkedin.com/in/dawid-pietruszewski-49929b241//](https://www.linkedin.com/in/dawid-pietruszewski-49929b241/)
-[![Twitter](https://img.shields.io/badge/Twitter-Dawid-blue)]([https://twitter.com/DawidPietrusze2](https://twitter.com/DawidPietrusze2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawid-blue)](https://www.linkedin.com/in/dawid-pietruszewski-49929b241/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Dawid-blue)](https://twitter.com/DawidPietrusze2)
 
