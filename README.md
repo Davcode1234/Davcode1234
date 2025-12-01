@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Frontend Developer from Poland 🇵🇱</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-00599C?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</p>
-
-<p align="center">
   I specialize in <strong>React</strong> and <strong>Next.js</strong>, with a strong focus on building responsive and scalable web applications. I am constantly exploring new technologies to level up my dev game.
 </p>
 
