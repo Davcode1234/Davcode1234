@@ -21,6 +21,7 @@
 
 ### 👨‍💻 What I'm Working On
 - 🏢 **Currently:** Working at a marketing agency, developing a custom **ERP system** to manage company operations.
+- ✉️ **Mailings & Web Projects:** I design and develop **HTML mailings** and build **websites** for clients.
 - 🌐 **Live Project:** I maintain and develop the website for **[Gamma](https://www.gamma24.pl/)**.
 - 🌱 **Learning:** Deepening my knowledge in server-side rendering and backend integration with Node.js.
 
