@@ -47,11 +47,3 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davcode1234&show_icons=true&theme=radical" alt="Dawid's Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davcode1234&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
